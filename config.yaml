@@ -1,0 +1,14 @@
+baseURL: 'https://xytangme.github.io'
+languageCode: 'en-us'
+title: '@xytangme'
+theme: 'PaperMod'
+params:
+    homeInfoParams:
+        Title: In the midst of chaos, how do you find peace? ~Joyce DiDonato
+        # Content: In the midst of chaos, how do you find peace? ~Joyce DiDonato
+    socialIcons:
+        - name: mastodon
+          url: https://m.cmx.im/web/@xytangme
+    ShowBreadCrumbs: true
+    ShowToc: true
+    TocOpen: true
