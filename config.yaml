@@ -5,10 +5,22 @@ theme: 'PaperMod'
 params:
     homeInfoParams:
         Title: In the midst of chaos, how do you find peace? ~Joyce DiDonato
-        # Content: In the midst of chaos, how do you find peace? ~Joyce DiDonato
+        Content: 30% Life + 30% Tech + 30% Business
     socialIcons:
         - name: mastodon
           url: https://m.cmx.im/web/@xytangme
+        - name: github
+          url: https://github.com/xytangme
+        - name: rss
+          url: index.xml
+        - name: email
+          url: mailto:xytang@pm.me
     ShowBreadCrumbs: true
     ShowToc: true
-    TocOpen: true
+    TocOpen: false
+    ShowPostNavLinks: true
+    ShowFullTextinRSS: true
+outputs:
+  home:
+      - HTML
+      - RSS
