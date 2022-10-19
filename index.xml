@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>@xytangme</title><link>https://xytangme.github.io/</link><description>Recent content on @xytangme</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 18 Oct 2022 18:38:04 +0800</lastBuildDate><atom:link href="https://xytangme.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Hell World</title><link>https://xytangme.github.io/posts/hell-world/</link><pubDate>Tue, 18 Oct 2022 18:38:04 +0800</pubDate><guid>https://xytangme.github.io/posts/hell-world/</guid><description>确实是Hell不是Hello，没有少写一个o。
 还以为自己已经是个老司机了，没想到还是踩了好几个坑，其中两个值得特别记录一下：
-为了避免部署时大头，theme最好以submodule的形式引用 由于GitHub Actions会生成一个gh-pages分支用于部署，所以需要将settings → Pages → Build and deployment → Branch由main改为gh-pages 以上。</description></item></channel></rss>
+为了避免部署时大头，theme最好以submodule的形式引用 由于GitHub Actions会生成一个gh-pages分支用于部署，所以需要将settings → Pages → Build and deployment → Branch由main改为gh-pages 以上。</description><content:encoded><![CDATA[<p>确实是Hell不是Hello，没有少写一个o。</p>
+<p>还以为自己已经是个老司机了，没想到还是踩了好几个坑，其中两个值得特别记录一下：</p>
+<ul>
+<li>为了避免部署时大头，<code>theme</code>最好以<code>submodule</code>的形式引用</li>
+<li>由于<code>GitHub Actions</code>会生成一个<code>gh-pages</code>分支用于部署，所以需要将<code>settings → Pages → Build and deployment → Branch</code>由<code>main</code>改为<code>gh-pages</code></li>
+</ul>
+<p>以上。</p>
+]]></content:encoded></item></channel></rss>
