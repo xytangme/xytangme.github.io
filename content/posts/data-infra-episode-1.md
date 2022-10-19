@@ -1,7 +1,7 @@
 ---
 title: "Data Infra: What's Next 科技早知道 × Snowflake & Databricks"
 date: 2022-10-20T01:38:31+08:00
-draft: true
+draft: false
 ---
 
 有了感兴趣的话题，先找找有没有相关的播客，逐渐成了一种习惯。幸运的是，今年开始关注的`data infra`这个话题，已经有不少播客谈论过。摘取其中一些，与各位看官分享。今日第一par，必须聊聊（仍然是）该领域的当红炸子鸡[`Snowflake`](https://www.snowflake.com/en/)和[`Databricks`](https://www.databricks.com)这对“欢喜冤家”。
