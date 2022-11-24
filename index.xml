@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>@xytangme</title><link>https://xytangme.github.io/</link><description>Recent content on @xytangme</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 22 Nov 2022 19:35:53 +0800</lastBuildDate><atom:link href="https://xytangme.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>电子书和电纸书</title><link>https://xytangme.github.io/posts/ebook-and-eink/</link><pubDate>Tue, 22 Nov 2022 19:35:53 +0800</pubDate><guid>https://xytangme.github.io/posts/ebook-and-eink/</guid><description>一些个人的心路历程。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>@xytangme</title><link>https://xytangme.github.io/</link><description>Recent content on @xytangme</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 24 Nov 2022 15:21:51 +0800</lastBuildDate><atom:link href="https://xytangme.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>微信读书笔记手动导入Readwise</title><link>https://xytangme.github.io/posts/import-weread-highlights-to-readwise/</link><pubDate>Thu, 24 Nov 2022 15:21:51 +0800</pubDate><guid>https://xytangme.github.io/posts/import-weread-highlights-to-readwise/</guid><description>很麻烦，但刚试过（暂时）可行。
+首先，使用微信读书APP的笔记导出功能，将文本复制到一个文本文件，或者在桌面浏览器中使用插件微信读书笔记助手导出
+然后，参考官方指南，将文本文件整理成readwise支持的CSV
+最后，将CSV上传至readwise
+如果需要，可以修改metadata。
+希望早日自动化这一流程。
+以上。</description><content:encoded><![CDATA[<p>很麻烦，但刚试过（暂时）可行。</p>
+<ul>
+<li>
+<p>首先，使用微信读书APP的笔记导出功能，将文本复制到一个文本文件，或者在桌面浏览器中使用插件<a href="https://github.com/Higurashi-kagome/wereader">微信读书笔记助手</a>导出</p>
+</li>
+<li>
+<p>然后，参考<a href="https://readwise.io/import_bulk">官方指南</a>，将文本文件整理成readwise支持的CSV</p>
+</li>
+<li>
+<p>最后，将CSV上传至readwise</p>
+</li>
+</ul>
+<p>如果需要，可以修改metadata。</p>
+<p>希望早日自动化这一流程。</p>
+<p>以上。</p>
+]]></content:encoded></item><item><title>电子书和电纸书</title><link>https://xytangme.github.io/posts/ebook-and-eink/</link><pubDate>Tue, 22 Nov 2022 19:35:53 +0800</pubDate><guid>https://xytangme.github.io/posts/ebook-and-eink/</guid><description>一些个人的心路历程。
 Why电子书 存储及搬运 最大的影响因素是居住条件有限，一来没有足够的空间存放纸书，二来一旦要变化房间布局或搬家，会很烦。至于书房什么的，年轻时候也觉得很炫酷，但懒癌压倒一切。以及对于有轻微洁癖的我来讲，绝大部分书籍在长期放置之后，都会变的难以下手，这一点去图书馆逛逛就会有很深的体会。所以，物理因素上来看，电子书完胜。
 但也不是完全不买，偶尔手痒还是会下单，最近一单是Year of Wonder，也是我的book of 2022，所以看完电子书也买了纸书，就放在手边，随手翻。
 阅读习惯 地点上，可以说是随时随地，除了房间（书桌和被窝），还包括各类交通工具（公交地铁火车飞机）和大马路上。时间上，鉴于地点比较多样，所以时间跨度包含24小时（兴奋起来随随便便通个宵）。所以就便利性来讲，电子书完胜。
