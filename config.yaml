@@ -5,7 +5,7 @@ theme: 'PaperMod'
 params:
     homeInfoParams:
         Title: In the midst of chaos, how do you find peace? ~Joyce DiDonato
-        Content: 30% Life + 30% Tech + 30% Business | Opinions are my own and not the views of my employer
+        Content: 30% Life + 30% Tech + 30% Business
     socialIcons:
         - name: mastodon
           url: https://m.cmx.im/web/@xytangme
